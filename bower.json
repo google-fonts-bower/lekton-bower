@@ -1,0 +1,17 @@
+{
+    "name": "lekton-googlefont",
+    "license": "OFL",
+    "authors": [
+        "Multiple Designers"
+    ],
+    "homepage": "https://fonts.google.com/",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/google-fonts-bower/lekton-bower.git"
+    },
+    "description": "Lekton font",
+    "keywords": [
+        "font",
+        "SANS_SERIF"
+    ]
+}
